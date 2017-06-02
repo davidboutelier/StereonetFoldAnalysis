@@ -7,3 +7,5 @@ Python fold surface and corresponding stereonet
 - shear along x to incline axial plane
 - calculate normlas using cross-product
 - rotate fold and vectors using plunge and plunge direction
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/davidboutelier/stereonetfoldanalysis)
